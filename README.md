@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Boris Kumpar
+- 👋 Hi, I’m Boris Kumpar - passionate coder machine
 
 <!---
 bkumpar/bkumpar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
